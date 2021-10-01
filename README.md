@@ -8,5 +8,6 @@ The code only works on non-kernel anti-cheat games.
 For more details about kernel anti-cheat: https://micky.com.au/why-should-you-worry-about-kernel-level-anti-cheat/  
 The code only works on CUDA-based graphic cards.  
 Code only for research purposes, not allow any business usage.  
+For a better gaming environment, I won't post my code directly.  
 Contact me via foreverznb@gmail.com for more details.  
 Code zipped here: https://drive.google.com/drive/u/1/folders/1c-mTLkOIw41DFAqbs8OIH6tiOBYGGr8I  
